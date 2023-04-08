@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/van-life/static/css/main.b21db729.css",
-    "main.js": "/van-life/static/js/main.55301ad4.js",
+    "main.css": "/van-life/static/css/main.5964e4af.css",
+    "main.js": "/van-life/static/js/main.85cfca13.js",
     "static/js/787.b625cab8.chunk.js": "/van-life/static/js/787.b625cab8.chunk.js",
     "static/media/home-image.png": "/van-life/static/media/home-image.196a3957e026228982cd.png",
     "static/media/about-image.png": "/van-life/static/media/about-image.29d727affbcd6e329f62.png",
     "static/media/logo.svg": "/van-life/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/van-life/index.html",
-    "main.b21db729.css.map": "/van-life/static/css/main.b21db729.css.map",
-    "main.55301ad4.js.map": "/van-life/static/js/main.55301ad4.js.map",
+    "main.5964e4af.css.map": "/van-life/static/css/main.5964e4af.css.map",
+    "main.85cfca13.js.map": "/van-life/static/js/main.85cfca13.js.map",
     "787.b625cab8.chunk.js.map": "/van-life/static/js/787.b625cab8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21db729.css",
-    "static/js/main.55301ad4.js"
+    "static/css/main.5964e4af.css",
+    "static/js/main.85cfca13.js"
   ]
 }
